@@ -1,0 +1,10 @@
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\bin\Debug\netcoreapp3.1\Modell.deps.json
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\bin\Debug\netcoreapp3.1\Modell.dll
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\bin\Debug\netcoreapp3.1\Modell.pdb
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.csproj.AssemblyReference.cache
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.AssemblyInfoInputs.cache
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.AssemblyInfo.cs
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.csproj.CoreCompileInputs.cache
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.dll
+D:\KIrill\Study\ITMO\SCharp\RacingSimulator\Modell\obj\Debug\netcoreapp3.1\Modell.pdb

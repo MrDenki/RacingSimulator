@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdWY4CNC6UYWNHOgTv7/HV94K/9oV6XvfROZp7st3qSRuV0gp0mG0HNhf7DnMR2Tu9Ri7evtuavYvXTzPahHSg==",
+  "success": true,
+  "projectFilePath": "D:\\KIrill\\Study\\ITMO\\SCharp\\RacingSimulator\\RacingSimulator\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
